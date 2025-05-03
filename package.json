@@ -1,0 +1,23 @@
+{
+  "name": "librelis-homework",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DinaMazur/librelis-homework.git"
+  },
+  "author": "Dina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DinaMazur/librelis-homework/issues"
+  },
+  "homepage": "https://github.com/DinaMazur/librelis-homework#readme",
+  "dependencies": {
+    "parcel": "^2.14.4",
+    "pnotify": "^5.2.0"
+  }
+}
