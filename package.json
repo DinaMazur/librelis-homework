@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/DinaMazur/librelis-homework/issues"
   },
-  "homepage": "https://github.com/DinaMazur/librelis-homework#readme",
+  "homepage": "https://dinamazur.github.io/librelis-homework/",
   "dependencies": {
     "parcel": "^2.14.4",
     "pnotify": "^5.2.0"
